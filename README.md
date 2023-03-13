@@ -2,7 +2,7 @@
 
 ## I'm a student and a developer!
 
-- 🔭 I’m currently working remotely at [Microsoft](https://www.microsoft.com/en-us/about)!
+- 🔭 I’m currently working at [Microsoft](https://www.microsoft.com/en-us/about)!
 - 🎸 Probably listening [King Gizzard and Lizard Wizard](https://www.youtube.com/watch?v=K14JkFfWUzc)
 
 [<img align="left" alt="Gustavo Candido | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> &nbsp; My linkedin](https://www.linkedin.com/in/gustavo-candido-5b0b60134/)
