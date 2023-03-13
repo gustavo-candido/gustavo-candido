@@ -2,10 +2,8 @@
 
 ## I'm a student and a developer!
 
-- 🔭 I’m currently working remotely at [Pipefy](https://www.pipefy.com/pt-br/)!
-- 🎓 I’m studying Computer Science at [UFU](https://ufu.br/)
-- 🧪 Trying to do some mad science with [Reach.sh](https://reach.sh/) and blockchain to save some trees
-- 🎸 Probably listening [Polyphia](https://www.youtube.com/watch?v=8YqvOLfkwq8&list=PLN0q19AZLbSd4epwHZYIsW4gqFUkHyhOd&index=6)
+- 🔭 I’m currently working remotely at [Microsoft](https://www.microsoft.com/en-us/about)!
+- 🎸 Probably listening [King Gizzard and Lizard Wizard](https://www.youtube.com/watch?v=K14JkFfWUzc)
 
 [<img align="left" alt="Gustavo Candido | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> &nbsp; My linkedin](https://www.linkedin.com/in/gustavo-candido-5b0b60134/)
 
@@ -47,9 +45,6 @@
    <a href="https://jestjs.io/">
       <img src="https://raw.githubusercontent.com/gustavo-candido/GoBarber/master/.github/techs/jest.png" width="30"/>
    </a>
-  <a href="https://reach.sh/">
-    <img src="https://reach.sh/header/logo.svg" width="40"/>
-  </a>
 </div>
 
 <br />
